@@ -1,4 +1,4 @@
-# Remise en route de ASKACC / K-Account / AS-Concept sur Windows moderne
+# Remise en route de ASKACC / K-Account / AS-Concept sur Windows moderne pour consultation d’archives comptables
 
 Ce dépôt documente une procédure de diagnostic et de remise en route d’un ancien environnement **ASKACC / K-Account / AS-Concept** sur un poste Windows moderne.
 
@@ -200,6 +200,8 @@ Classe non enregistrée
 ```
 
 ## À propos de AS-Suite
+
+Les utilisateurs doivent utiliser leurs propres supports d’installation, sauvegardes ou licences.
 
 Dans le cas documenté, les composants AS-Concept nécessaires provenaient de l’environnement AS-Suite / AS-Concept.
 
